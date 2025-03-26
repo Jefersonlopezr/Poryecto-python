@@ -1,0 +1,195 @@
+[
+        {
+        "codigo_producto": "PN-001",
+        "nombre": "Pan Integral",
+        "categoria": "Pan",
+        "descripcion": "Pan de harina integral con semillas.",
+        "proveedor": "Panadería Natural",
+        "cantidad_en_stock": 50,
+        "precio_venta": 2000,
+        "precio_proveedor": 1000
+        },
+        {
+        "codigo_producto": "PN-002",
+        "nombre": "Pan de Queso",
+        "categoria": "Pan",
+        "descripcion": "Pan de queso mozzarella.",
+        "proveedor": "Panadería Natural",
+        "cantidad_en_stock": 30,
+        "precio_venta": 2500,
+        "precio_proveedor": 1200
+        },
+        {
+        "codigo_producto": "PN-003",
+        "nombre": "Pan de Ajo",
+        "categoria": "Pan",
+        "descripcion": "Pan de ajo con mantequilla.",
+        "proveedor": "Panadería Natural",
+        "cantidad_en_stock": 40,
+        "precio_venta": 1500,
+        "precio_proveedor": 800
+        },
+        {
+        "codigo_producto": "PN-004",
+        "nombre": "Pan de Centeno",
+        "categoria": "Pan",
+        "descripcion": "Pan de centeno con semillas.",
+        "proveedor": "Panadería Natural",
+        "cantidad_en_stock": 20,
+        "precio_venta": 1800,
+        "precio_proveedor": 900
+        },
+        {
+        "codigo_producto": "PN-005",
+        "nombre": "Pan de Maiz",
+        "categoria": "Pan",
+        "descripcion": "Pan de maíz con mantequilla.",
+        "proveedor": "Panadería Natural",
+        "cantidad_en_stock": 35,
+        "precio_venta": 1600,
+        "precio_proveedor": 700
+        },
+        {
+        "codigo_producto": "PN-006",
+        "nombre": "Pan de Cebolla",
+        "categoria": "Pan",
+        "descripcion": "Pan de cebolla con mantequilla.",
+        "proveedor": "Panadería Natural",
+        "cantidad_en_stock": 25,
+        "precio_venta": 1700,
+        "precio_proveedor": 800
+        },
+        {
+        "codigo_producto": "PT-001",
+        "nombre": "Postre de Chocolate",
+        "categoria": "Postre",
+        "descripcion": "Postre de chocolate con crema.",
+        "proveedor": "Panadería Natural",
+        "cantidad_en_stock": 10,
+        "precio_venta": 5000,
+        "precio_proveedor": 3500
+        },
+        {
+        "codigo_producto": "PT-002",
+        "nombre": "Postre de Fresa",
+        "categoria": "Postre",
+        "descripcion": "Postre de fresa con crema.",
+        "proveedor": "Panadería Natural",
+        "cantidad_en_stock": 15,
+        "precio_venta": 4500,
+        "precio_proveedor": 3000
+        },
+        {
+        "codigo_producto": "PT-003",
+        "nombre": "Postre de Vainilla",
+        "categoria": "Postre",
+        "descripcion": "Postre de vainilla con crema.",
+        "proveedor": "Panadería Natural",
+        "cantidad_en_stock": 20,
+        "precio_venta": 4000,
+        "precio_proveedor": 2500
+        },
+        {
+        "codigo_producto": "PT-004",
+        "nombre": "Postre de Limon",
+        "categoria": "Postre",
+        "descripcion": "Postre de limón con crema.",
+        "proveedor": "Panadería Natural",
+        "cantidad_en_stock": 25,
+        "precio_venta": 3500,
+        "precio_proveedor": 2000
+        },
+        "Dona-001",{
+        "codigo_producto": "DN-001",
+        "nombre": "Dona de Chocolate",
+        "categoria": "Dona",
+        "descripcion": "Dona de chocolate con crema.",
+        "proveedor": "Panadería Natural",
+        "cantidad_en_stock": 30,
+        "precio_venta": 2000,
+        "precio_proveedor": 1000
+        },
+        {
+        "codigo_producto": "DN-002",
+        "nombre": "Dona de Fresa",
+        "categoria": "Dona",
+        "descripcion": "Dona de fresa con crema.",
+        "proveedor": "Panadería Natural",
+        "cantidad_en_stock": 35,
+        "precio_venta": 1800,
+        "precio_proveedor": 900
+        },
+        {
+        "codigo_producto": "DN-003",
+        "nombre": "Dona de Vainilla",
+        "categoria": "Dona",
+        "descripcion": "Dona de vainilla con crema.",
+        "proveedor": "Panadería Natural",
+        "cantidad_en_stock": 40,
+        "precio_venta": 1600,
+        "precio_proveedor": 800
+        },
+        {
+        "codigo_producto": "DN-004",
+        "nombre": "Dona de Limon",
+        "categoria": "Dona",
+        "descripcion": "Dona de limon con crema.",
+        "proveedor": "Panadería Natural",
+        "cantidad_en_stock": 45,
+        "precio_venta": 1400,
+        "precio_proveedor": 700
+        },
+        {
+        "codigo_producto": "B-001",
+        "nombre": "Coca-Cola",
+        "categoria": "Bebidas",
+        "descripcion": "Gaseosa Coca-Cola 500ml.",
+        "proveedor": "Industria de Bebidas",
+        "cantidad_en_stock": 100,
+        "precio_venta": 3000,
+        "precio_proveedor": 1500
+        },
+        {
+        "codigo_producto": "B-002",
+        "nombre": "Pepsi",
+        "categoria": "Bebidas",
+        "descripcion": "Gaseosa Pepsi 500ml.",
+        "proveedor": "Industria de Bebidas",
+        "cantidad_en_stock": 92,
+        "precio_venta": 2500,
+        "precio_proveedor": 1400
+        },
+        {
+        "codigo_producto": "B-003",
+        "nombre": "Sprite",
+        "categoria": "Bebidas",
+        "descripcion": "Gaseosa Sprite 500ml.",
+        "proveedor": "Industria de Bebidas",
+        "cantidad_en_stock": 85,
+        "precio_venta": 2000,
+        "precio_proveedor": 1000
+        },
+        {
+        "codigo_producto": "B-004",
+        "nombre": "Fanta",
+        "categoria": "Bebidas",
+        "descripcion": "Gaseosa Fanta 500ml.",
+        "proveedor": "Industria de Bebidas",
+        "cantidad_en_stock": 78,
+        "precio_venta": 1800,
+        "precio_proveedor": 900
+        },
+        {
+        "codigo_producto": "B-005",
+        "nombre": "Agua Mineral",
+        "categoria": "Bebidas",
+        "descripcion": "Agua mineral 500ml.",
+        "proveedor": "Industria de Bebidas",
+        "cantidad_en_stock": 70,
+        "precio_venta": 1000,
+        "precio_proveedor": 500
+        }
+        
+
+
+]
