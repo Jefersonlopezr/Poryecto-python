@@ -185,4 +185,3 @@ def ejecucion_menu_cliente_2():
 
 
 
-tomar_orden()

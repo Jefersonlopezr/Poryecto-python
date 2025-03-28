@@ -1,27 +1,21 @@
-[
-    {
-        "codigo_pedido": 1,
-        "codigo_cliente": "CL-001",
-        "fecha_pedido": "2024-10-01",
-        "detalles_pedido": []
-    },
-    {
-        "codigo_pedido": 2,
-        "codigo_cliente": "CL-001",
-        "fecha_pedido": "2025-01-11",
-        "detalles_pedido": [
-            {
-                "codigo_producto": "PS-002",
-                "cantidad": 30,
-                "precio_unidad": 15.0,
-                "numero_linea": 1
-            }
-        ]
-    } 
-
-
-
-
-
-
-]
+    [
+        {
+            "codigo_pedido": 1,
+            "codigo_cliente": "CL-001",
+            "fecha_pedido": "2024-10-01",
+            "detalles_pedido": []
+        },
+        {
+            "codigo_pedido": 2,
+            "codigo_cliente": "CL-001",
+            "fecha_pedido": "2025-01-11",
+            "detalles_pedido": [
+                {
+                    "codigo_producto": "PS-002",
+                    "cantidad": 30,
+                    "precio_unidad": 15.0,
+                    "numero_linea": 1
+                }
+            ]
+        } 
+    ]
